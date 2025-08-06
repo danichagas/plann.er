@@ -1,0 +1,12 @@
+{
+  "name": "plann.er",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/server.tsx"
+  },
+  "keywords": [],
+  "author": "Daniel Chagas",
+  "license": "ISC"
+}
